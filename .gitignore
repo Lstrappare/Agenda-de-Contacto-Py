@@ -1,0 +1,10 @@
+# Ignorar la carpeta Contactos/
+Contactos/
+
+# Ignorar archivos temporales o de sistema
+*.tmp
+*.log
+
+# Ignorar archivos generados por Python
+__pycache__/
+*.pyc

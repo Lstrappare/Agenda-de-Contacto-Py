@@ -1,7 +1,3 @@
-¡Claro que sí! Aquí tienes una descripción detallada de tu programa que puedes usar para el repositorio de GitHub. Esta descripción incluye información sobre la funcionalidad actual del programa, su propósito y las características que planeas implementar en el futuro.
-
----
-
 # Agenda de Contactos
 
 ## Descripción
@@ -37,7 +33,7 @@ Para ejecutar este programa, necesitarás:
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tu-usuario/agenda-contactos.git
+   git clone https://github.com/Lstrappare/Agenda-de-Contacto-Py.git
    ```
 2. Navega al directorio del proyecto:
    ```bash
